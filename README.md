@@ -1,35 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Self%20Introduction&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mallela%20Kranthi%20Kiran&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mallela%20Kranthi%20Kiran&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-Year%20CSE%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <marquee behavior="scroll" direction="left" style="font-size:16px;color:#1E88E5;">
-🚀 Full-Stack Developer &nbsp;•&nbsp; 🤖 Machine Learning Enthusiast &nbsp;•&nbsp; ⚙️ DevOps Explorer &nbsp;•&nbsp; 📱 Mobile App Builder &nbsp;•&nbsp; 💡 Idea-to-Product Thinker
+🚀 Full-Stack Developer &nbsp;•&nbsp; 🤖 Machine Learning Enthusiast &nbsp;•&nbsp; ⚙️ DevOps Explorer &nbsp;•&nbsp; 📱 Mobile App Builder &nbsp;•&nbsp; 💡 Idea-to-Product Thinker &nbsp;•&nbsp; 🎯 Outcome Driven
 </marquee>
 
 <i>"I enjoy building things more than just learning about them."</i>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Status-Final%20Year%20CSE%20Student-2E86AB?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time%20Roles-43A047?style=for-the-badge&logo=briefcase&logoColor=white" />
-<img src="https://img.shields.io/badge/Mindset-Builder%20%F0%9F%9A%80-FF4081?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Mindset-Builder%20🚀-FF4081?style=for-the-badge" />
 
-<br/><br/>
+</div>
 
-<img src="https://img.shields.io/badge/Full--Stack%20Development-1E88E5?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-43A047?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-FB8C00?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Mobile%20App%20Dev-8E24AA?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem%20Solving-E53935?style=flat-square&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Continuous%20Learning-00897B?style=flat-square&logo=bookstack&logoColor=white" />
+---
+
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[![About](https://img.shields.io/badge/🎓-About%20Me-2E86AB?style=flat-square)](#-about-me)
+[![Areas](https://img.shields.io/badge/🚀-Core%20Areas-1E88E5?style=flat-square)](#-core-areas)
+[![Takeaways](https://img.shields.io/badge/🧠-Takeaways-43A047?style=flat-square)](#-key-takeaways-from-my-projects)
+[![Drives](https://img.shields.io/badge/💡-What%20Drives%20Me-FB8C00?style=flat-square)](#-what-drives-me)
+[![Goal](https://img.shields.io/badge/🎯-Career%20Goal-8E24AA?style=flat-square)](#-career-goal)
+[![Video](https://img.shields.io/badge/🎬-Video-E53935?style=flat-square)](#-self-introduction-video)
+[![Connect](https://img.shields.io/badge/📫-Connect-00897B?style=flat-square)](#-lets-connect)
 
 </div>
 
 <br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 🎓 About Me
+
+<table>
+<tr>
+<td width="70%" valign="top">
 
 Good morning sir/madam 🙏
 
@@ -39,82 +50,118 @@ One thing I have realized during my college journey is that I enjoy building thi
 
 > 💭 *"Can I build something useful with this?"*
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
-
-## 🚀 Core Areas
-
-My curiosity has consistently pulled me toward four domains:
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Development
-Designing and building complete, end-to-end applications
-<img src="https://img.shields.io/badge/-End--to--End%20Apps-1E88E5?style=flat-square" />
-
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top" align="center">
 
-### 🤖 Machine Learning
-Exploring how data-driven models solve real problems
-<img src="https://img.shields.io/badge/-Data%20Driven-43A047?style=flat-square" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ DevOps
-Automating and streamlining the path from code to deployment
-<img src="https://img.shields.io/badge/-Automation-FB8C00?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile App Development
-Crafting intuitive experiences for everyday users
-<img src="https://img.shields.io/badge/-User%20First-8E24AA?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-CSE%20Final%20Year-2E86AB?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🧭-Curiosity%20Driven-1E88E5?style=for-the-badge" /><br/><br/>
+<img src="https://img.shields.io/badge/🛠️-Hands--On%20Builder-43A047?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+## 🚀 Core Areas
+
+<div align="center">
+
+| 🌐 | 🤖 | ⚙️ | 📱 |
+|:---:|:---:|:---:|:---:|
+| **Full-Stack Development** | **Machine Learning** | **DevOps** | **Mobile App Dev** |
+| End-to-end application design & build | Data-driven problem solving | Automating code-to-deployment flow | Intuitive everyday-user experiences |
+| ![](https://img.shields.io/badge/-React-1E88E5?style=flat-square&logo=react&logoColor=white) | ![](https://img.shields.io/badge/-TensorFlow-43A047?style=flat-square&logo=tensorflow&logoColor=white) | ![](https://img.shields.io/badge/-Docker-FB8C00?style=flat-square&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/-Flutter-8E24AA?style=flat-square&logo=flutter&logoColor=white) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## 🧠 Key Takeaways From My Projects
 
-Building real projects taught me that creating a product is **never just about writing code**. It's about:
+Building real projects taught me that creating a product is **never just about writing code**.
 
-| | Principle | |
-|---|---|---|
-| 👥 | **Understanding users** | designing with empathy for real needs |
-| 🎯 | **Solving real problems** | focusing on impact over complexity |
-| 🔁 | **Continuously improving solutions** | treating every release as a starting point, not an endpoint |
+<table>
+<tr>
+<td align="center" width="33%">
 
+### 👥
+**Understanding Users**
 <br/>
+Designing with empathy for real needs
+<br/>
+![](https://img.shields.io/badge/-User%20Centric-1E88E5?style=flat-square)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+</td>
+<td align="center" width="33%">
+
+### 🎯
+**Solving Real Problems**
+<br/>
+Focusing on impact over complexity
+<br/>
+![](https://img.shields.io/badge/-Impact%20First-43A047?style=flat-square)
+
+</td>
+<td align="center" width="33%">
+
+### 🔁
+**Continuous Improvement**
+<br/>
+Every release is a starting point
+<br/>
+![](https://img.shields.io/badge/-Iterative-FB8C00?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## 💡 What Drives Me
 
 I'm motivated by the full arc of building something — **from a blank page to a working product.**
 
-<img src="https://img.shields.io/badge/🛠️-Planning%20to%20Implementation-1E88E5?style=flat-square" />
-<img src="https://img.shields.io/badge/🧩-Technical%20Problem--Solving-43A047?style=flat-square" />
-<img src="https://img.shields.io/badge/💪-Overcoming%20Challenges-FF7043?style=flat-square" />
+```
+🛠️  Planning  ──▶  🧩  Implementation  ──▶  💪  Challenges  ──▶  🚀  Shipped Product
+```
 
-<br/><br/>
+<div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://img.shields.io/badge/🛠️-Planning%20to%20Implementation-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧩-Technical%20Problem--Solving-43A047?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💪-Overcoming%20Challenges-FF7043?style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## 🎯 Career Goal
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🌱
+**Forward-Thinking Team**
+
+</td>
+<td align="center">
+
+### 🧩
+**Genuinely Useful Products**
+
+</td>
+<td align="center">
+
+### 🌟
+**Meaningful Impact**
+
+</td>
+</tr>
+</table>
 
 > As I step into my professional journey, my goal is to **contribute to a forward-thinking team**
 > and help build software and products that **people genuinely find useful** —
@@ -122,25 +169,25 @@ I'm motivated by the full arc of building something — **from a blank page to a
 
 </div>
 
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## 🎬 Self-Introduction Video
 
-A short video introduction is included in this repository:
+<div align="center">
+
+A short video introduction is included in this repository 👇
 
 <img src="https://img.shields.io/badge/Watch-self--intro.mp4-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
 📽️ **[`self-intro.mp4`](./self-intro.mp4)**
 
-<br/>
+</div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
 
 ## 📫 Let's Connect
+
+<div align="center">
 
 <a href="https://kranthi-portfilo.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -157,10 +204,10 @@ A short video introduction is included in this repository:
 
 <br/><br/>
 
-<marquee behavior="scroll" direction="right" style="font-size:14px;color:#888;">
+<marquee behavior="alternate" style="font-size:14px;color:#888;">
 ✨ Thank you for taking the time to visit my profile! ✨
 </marquee>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
