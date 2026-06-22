@@ -3,15 +3,20 @@
 <p align="center"><i>"I enjoy building things more than just learning about them."</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-Final%20Year%20CSE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20ML%20%7C%20DevOps%20%7C%20Mobile-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Final%20Year%20CSE%20Student-2E86AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-1E88E5?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-43A047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DevOps-FB8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20App%20Dev-8E24AA?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🎓 About Me
 
-**Good morning sir/madam.** 🙏
+Good morning sir/madam 🙏
 
 I am **Mallela Kranthi Kiran**, a final-year **Computer Science Engineering** student.
 
@@ -21,56 +26,65 @@ One thing I have realized during my college journey is that I enjoy building thi
 
 ---
 
-## 🚀 My Journey
+## 🚀 Core Areas
 
-That curiosity led me to explore:
+My curiosity has consistently pulled me toward four domains:
 
-| Area | Icon |
-|---|---|
-| Full-Stack Development | 🌐 |
-| Machine Learning | 🤖 |
-| DevOps | ⚙️ |
-| Mobile App Development | 📱 |
+- 🌐 **Full-Stack Development** — designing and building complete, end-to-end applications
+- 🤖 **Machine Learning** — exploring how data-driven models solve real problems
+- ⚙️ **DevOps** — automating and streamlining the path from code to deployment
+- 📱 **Mobile App Development** — crafting intuitive experiences for everyday users
 
-Through projects, I learned that creating a product is **not just about coding** — it is about:
+---
 
-- ✅ Understanding users
-- ✅ Solving real problems
-- ✅ Continuously improving the solution
+## 🧠 Key Takeaways From My Projects
+
+Building real projects taught me that creating a product is **never just about writing code**. It's about:
+
+- 👥 **Understanding users** — designing with empathy for real needs
+- 🎯 **Solving real problems** — focusing on impact over complexity
+- 🔁 **Continuously improving solutions** — treating every release as a starting point, not an endpoint
 
 ---
 
 ## 💡 What Drives Me
 
-I enjoy taking ideas from the **planning stage to implementation** and seeing them become working applications.
+I'm motivated by the full arc of building something: **from a blank page to a working product.**
 
-Every project has taught me something new, whether it is:
+What keeps me engaged is:
 
-- 🧩 Technical skills
-- 🧠 Problem-solving
-- 💪 Handling challenges
-
----
-
-## 🎯 My Goal
-
-As I start my professional journey, I want to be someone who **not only develops software** but also contributes to building **products that people genuinely find useful**.
+- 🛠️ Taking ideas from **planning through to implementation**
+- 🧩 Tackling **technical problem-solving** with persistence
+- 💪 **Overcoming challenges** that come with shipping real software
 
 ---
 
-## 🎬 Self Introduction Video
+## 🎯 Career Goal
 
-A video introduction is included in this repository:
-
-📽️ [`self-intro.mp4`](./self-intro.mp4)
+As I step into my professional journey, my goal is to **contribute to a forward-thinking team** and help build software and products that **people genuinely find useful** — not just technically impressive, but meaningfully impactful.
 
 ---
 
-## 📫 Connect With Me
+## 🎬 Self-Introduction Video
+
+A short video introduction is included in this repository:
+
+📽️ **[`self-intro.mp4`](./self-intro.mp4)**
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-Final%20Year%20CSE%20Student-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💼-Full--Stack%20%7C%20ML%20%7C%20DevOps%20%7C%20Mobile%20Dev-blueviolet?style=for-the-badge" />
+  <a href="https://kranthi-portfilo.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/kranthikiran885366" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kranthikiran885366@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
