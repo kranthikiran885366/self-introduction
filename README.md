@@ -1,18 +1,31 @@
-<h1 align="center">👋 Self Introduction — Mallela Kranthi Kiran</h1>
+<div align="center">
 
-<p align="center"><i>"I enjoy building things more than just learning about them."</i></p>
+# 👋 Self Introduction
+## Mallela Kranthi Kiran
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Final%20Year%20CSE%20Student-2E86AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-1E88E5?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-43A047?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-DevOps-FB8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Mobile%20App%20Dev-8E24AA?style=for-the-badge" />
-</p>
+<i>"I enjoy building things more than just learning about them."</i>
 
----
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Final%20Year%20CSE%20Student-2E86AB?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time%20Roles-43A047?style=for-the-badge&logo=briefcase&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Full--Stack%20Development-1E88E5?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-43A047?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-FB8C00?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile%20App%20Dev-8E24AA?style=flat-square&logo=flutter&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+╭──────────────────────────────────────────────╮
+
+</div>
 
 ## 🎓 About Me
 
@@ -24,32 +37,60 @@ One thing I have realized during my college journey is that I enjoy building thi
 
 > 💭 *"Can I build something useful with this?"*
 
----
+<br/>
 
 ## 🚀 Core Areas
 
 My curiosity has consistently pulled me toward four domains:
 
-- 🌐 **Full-Stack Development** — designing and building complete, end-to-end applications
-- 🤖 **Machine Learning** — exploring how data-driven models solve real problems
-- ⚙️ **DevOps** — automating and streamlining the path from code to deployment
-- 📱 **Mobile App Development** — crafting intuitive experiences for everyday users
+<table>
+<tr>
+<td width="50%">
 
----
+**🌐 Full-Stack Development**
+Designing and building complete, end-to-end applications
+
+</td>
+<td width="50%">
+
+**🤖 Machine Learning**
+Exploring how data-driven models solve real problems
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚙️ DevOps**
+Automating and streamlining the path from code to deployment
+
+</td>
+<td width="50%">
+
+**📱 Mobile App Development**
+Crafting intuitive experiences for everyday users
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🧠 Key Takeaways From My Projects
 
 Building real projects taught me that creating a product is **never just about writing code**. It's about:
 
-- 👥 **Understanding users** — designing with empathy for real needs
-- 🎯 **Solving real problems** — focusing on impact over complexity
-- 🔁 **Continuously improving solutions** — treating every release as a starting point, not an endpoint
+| | Principle |
+|---|---|
+| 👥 | **Understanding users** — designing with empathy for real needs |
+| 🎯 | **Solving real problems** — focusing on impact over complexity |
+| 🔁 | **Continuously improving solutions** — treating every release as a starting point, not an endpoint |
 
----
+<br/>
 
 ## 💡 What Drives Me
 
-I'm motivated by the full arc of building something: **from a blank page to a working product.**
+I'm motivated by the full arc of building something — **from a blank page to a working product.**
 
 What keeps me engaged is:
 
@@ -57,13 +98,19 @@ What keeps me engaged is:
 - 🧩 Tackling **technical problem-solving** with persistence
 - 💪 **Overcoming challenges** that come with shipping real software
 
----
+<br/>
 
 ## 🎯 Career Goal
 
-As I step into my professional journey, my goal is to **contribute to a forward-thinking team** and help build software and products that **people genuinely find useful** — not just technically impressive, but meaningfully impactful.
+<div align="center">
 
----
+> As I step into my professional journey, my goal is to **contribute to a forward-thinking team**
+> and help build software and products that **people genuinely find useful** —
+> not just technically impressive, but meaningfully impactful.
+
+</div>
+
+<br/>
 
 ## 🎬 Self-Introduction Video
 
@@ -71,22 +118,26 @@ A short video introduction is included in this repository:
 
 📽️ **[`self-intro.mp4`](./self-intro.mp4)**
 
----
+<br/>
+
+<div align="center">
+
+╭──────────────────────────────────────────────╮
 
 ## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://kranthi-portfilo.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/kranthikiran885366" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:kranthikiran885366@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://kranthi-portfilo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/kranthikiran885366" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kranthikiran885366@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-<p align="center"><i>Thank you for taking the time to visit my profile! 🙏</i></p>
+<i>Thank you for taking the time to visit my profile! 🙏</i>
+
+</div>
